@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3402a0ed-eb62-4a0b-9333-fb3fcd5016b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/SnakeLadderUC1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UC1SnakeLadder">
+  <component name="RunManager" selected="Application.UC2SnakeLadder">
     <configuration name="SnakeLadderUC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SnakeLadderUC1" />
       <module name="SnackLadder" />
@@ -52,8 +52,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UC2SnakeLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UC2SnakeLadder" />
+      <module name="SnackLadder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UC2SnakeLadder" />
         <item itemvalue="Application.UC1SnakeLadder" />
         <item itemvalue="Application.SnakeLadderUC1" />
       </list>
