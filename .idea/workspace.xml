@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3402a0ed-eb62-4a0b-9333-fb3fcd5016b5" name="Changes" comment="" />
+    <list default="true" id="3402a0ed-eb62-4a0b-9333-fb3fcd5016b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/SnakeLadderUC1.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.UC1SnakeLadder">
     <configuration name="SnakeLadderUC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SnakeLadderUC1" />
       <module name="SnackLadder" />
@@ -43,8 +45,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UC1SnakeLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UC1SnakeLadder" />
+      <module name="SnackLadder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UC1SnakeLadder" />
         <item itemvalue="Application.SnakeLadderUC1" />
       </list>
     </recent_temporary>
